@@ -9,7 +9,7 @@
 
 ### Discussion 1
 
- - Covered example SQL queries
+ - Covered example SQL queries (Run this yourself by downloading sqlite3, [discussion.db](sorthashsql/discussion.db) and running `sqlite3 discussion.db` in the same directory
  - Covered discussion of Out-of-Core
  - Covered Sorting
    - Did not cover recursive sorting
