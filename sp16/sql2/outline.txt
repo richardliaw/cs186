@@ -1,0 +1,6 @@
+- Introduced and reviewed basics of SQL structure
+- Covered JOINS and nested queries (should have talked about "with")
+- Did example with 6 connections, didn't get to median example
+
+- interesting resources: http://sql-joins.leopard.in.ua/
+    - https://www.sqlite.org/syntaxdiagrams.html#select-stmt
