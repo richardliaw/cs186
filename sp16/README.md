@@ -3,6 +3,8 @@
 | Discussion | Directory | TLDR |
 | ---        | ---       | ---  | 
 | 1 | [sorthashsql](sorthashsql) | ([tldr](https://github.com/richardliaw/cs186/blob/master/sp16/README.md#10)) |
+| 2 | [sorthashsql](sorthashsql) | ([tldr](https://github.com/richardliaw/cs186/blob/master/sp16/README.md#10)) |
+| 3 | [PySpark](pyspark) | ([tldr](https://github.com/richardliaw/cs186/blob/master/sp16/README.md#10)) |
 
 
 ***
